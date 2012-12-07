@@ -1,0 +1,13 @@
+{
+  "name": "reaction",
+  "version": "0.0.1",
+  "author": "Jesse Panganiban <me@jpanganiban.com>",
+  "description": "A simple reactor hub.",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jpanganiban/reaction.git"
+  },
+  "license": "MIT",
+  "engines": ">=0.8"
+}
