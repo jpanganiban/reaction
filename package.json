@@ -8,6 +8,9 @@
     "type": "git",
     "url": "https://github.com/jpanganiban/reaction.git"
   },
+  "dependencies": {
+    "underscore": "1.4.x"
+  },
   "license": "MIT",
   "engines": ">=0.8"
 }
